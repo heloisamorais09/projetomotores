@@ -1,0 +1,5 @@
+D:\Users\20221170150046\projetomotores\trabalho poo 3b maria heloisa b\obj\Debug\net6.0\trabalho poo 3b maria heloisa b.csproj.AssemblyReference.cache
+D:\Users\20221170150046\projetomotores\trabalho poo 3b maria heloisa b\obj\Debug\net6.0\trabalho poo 3b maria heloisa b.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20221170150046\projetomotores\trabalho poo 3b maria heloisa b\obj\Debug\net6.0\trabalho poo 3b maria heloisa b.AssemblyInfoInputs.cache
+D:\Users\20221170150046\projetomotores\trabalho poo 3b maria heloisa b\obj\Debug\net6.0\trabalho poo 3b maria heloisa b.AssemblyInfo.cs
+D:\Users\20221170150046\projetomotores\trabalho poo 3b maria heloisa b\obj\Debug\net6.0\trabalho poo 3b maria heloisa b.csproj.CoreCompileInputs.cache
